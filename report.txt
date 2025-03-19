@@ -1,0 +1,7 @@
+
+Anomaly Detection Model Performance:
+------------------------------------
+Accuracy: 0.9483757702325901
+Precision: 0.09948580371115583
+Recall: 0.48580786026200873
+F1-score: 0.16515123399517537
